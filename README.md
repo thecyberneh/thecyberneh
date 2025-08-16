@@ -1,7 +1,7 @@
-## Hi there 👋
-
 <!--
 **thecyberneh/thecyberneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi There 👋
+
+<!--
+**thecyberneh/thecyberneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+Myself **Neh Patel**, a Security Engineer and Ethical Hacker with expertise in **Offensive Security, Application Security, Red Teaming, and Vulnerability Research**.  
+
+Currently working as a **Security Engineer at Security Innovation** and also a vetted member of the **Synack Red Team (SRT)**.  
+I have previously worked with **Deloitte** and **Securr**, gaining hands-on experience in attack surface management, automation engineering, and penetration testing across web, API, mobile, and network environments.  
+
+I’ve been recognized globally for my research and contributions:  
+- **Microsoft MSRC’s Most Valuable Security Researcher** (Global Rank 23, 2022 & 2023)  
+- Featured in **Microsoft, Apple, and Google Hall of Fame** for critical vulnerability discoveries  
+- Awarded **$18,000 bounty by Microsoft** for high-severity findings  
+- **CTF Champion** at Null Ahmedabad PWN Party  
+
+I also build security tools like **Scriptkiddi3**, a recon and vulnerability detection automation framework, and contribute to the security community as **Cybersecurity Lead at GDSC PDPU**.  
+
+---
+
+## 🚀 About Me
+
+Hacker | Security Engineer | Synack Red Team | Offensive Security | Application Security | Cloud Security  
+
+"Breaking things ethically to build a safer digital world."  
+
+---
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thecyberneh/)  [![github](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thecyberneh)  [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:01nehpatelofficial@gmail.com)  
+
+---
+
+## 🛠 Some of My Top Skills Are:
+
+- Web Application Penetration Testing  
+- Mobile Application Penetration Testing  
+- API Penetration Testing  
+- Network Penetration Testing  
+- Red Teaming & Attack Surface Management  
+- Secure Automation & Tool Development (Shell, Python, Go)  
+- Cloud Security (AWS, Azure, GCP)  
+- Vulnerability Assessment & Reporting  
+- Reconnaissance Automation (Scriptkiddi3)  
+- Responsible Disclosure & Bug Bounty Research  
+
+---
+
+### 📫 Connect with me: [Email](mailto:01nehpatelofficial@gmail.com)
+
