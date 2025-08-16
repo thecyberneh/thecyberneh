@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Myself **Neh Patel**, a Security Engineer and Ethical Hacker with expertise in **Offensive Security, Application Security, Red Teaming, and Vulnerability Research**.  
 
-Currently working as a **Security Engineer at Security Innovation** and also a vetted member of the **Synack Red Team (SRT)**.  
+Currently working as a **Application Security Engineer at Security Innovation** and also a vetted member of the **Synack Red Team (SRT)**.  
 I have previously worked with **Deloitte** and **Securr**, gaining hands-on experience in attack surface management, automation engineering, and penetration testing across web, API, mobile, and network environments.  
 
 I’ve been recognized globally for my research and contributions:  
